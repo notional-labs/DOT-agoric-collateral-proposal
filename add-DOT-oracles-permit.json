@@ -27,7 +27,6 @@
   },
   "evaluateBundleCap": "makeCoreProposalBehavior",
   "installation": {
-    "produce": "makeCoreProposalBehavior"
   },
   "modules": {
     "utils": {
